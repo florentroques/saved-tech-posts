@@ -1,1 +1,4 @@
-https://florentroques.github.io/saved-tech-posts
+# Saved Tech Posts
+
+[Comparing Elixir and Go](https://www.cloudbees.com/blog/comparing-elixir-go)
+
